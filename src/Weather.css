@@ -1,0 +1,49 @@
+h1 {
+    font-size: 60px;
+  }
+  
+  h1,
+  h3 {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  h4:first-letter {
+    text-transform: capitalize;
+  }
+  
+  .temperature-now {
+    font-size: 72px;
+    text-align: center;
+  }
+  
+  .value-now {
+    font-size: 40px !important;
+  }
+  
+  .current-weather {
+    margin: 30px;
+    padding: 15px;
+    color: #313d33 !important;
+  }
+  
+  .icon {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: auto;
+  }
+  
+  .location {
+    margin-top: 30px;
+    color: #313d33 !important;
+  }
+  
+  .container {
+    padding-right: 25px;
+    padding-left: 25px;
+    margin: 43px auto;
+    border: solid rgba(241, 238, 233) 2px;
+    border-radius: 8px;
+    background: rgba(241, 238, 233, 0.7);
+    font-family: "Roboto", sans-serif;
+  }
